@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-hi
-=======
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
->>>>>>> 2dbec9c374a14697090e5a5842c23d9602c101dd
+hi-hello
